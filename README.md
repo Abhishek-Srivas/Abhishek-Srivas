@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhishek Srivas</h1>
-<h3 align="center">A passionate Backend Developer from India(Soon a Full Stack Developer)</h3>
+<h3 align="center">A passionate MERN Developer from India(Soon a Full Stack Developer)</h3>
 <img align="right" alt="GIF" src="https://github.com/AbhishekSrivas114319/AbhishekSrivas114319/blob/main/working.gif?raw=true" width="500" height="320" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisheksrivas114319&label=Profile%20views&color=0e75b6&style=flat" alt="abhisheksrivas114319" /> </p>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Redux**
 
 - 📫 How to reach me **abhiautar123@gmail.com**
 
